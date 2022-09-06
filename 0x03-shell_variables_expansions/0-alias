@@ -1,2 +1,2 @@
 #!/bin/bash
-alsias ls="rm *"
+alsias ls ="rm *"
